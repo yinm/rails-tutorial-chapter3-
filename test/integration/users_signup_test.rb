@@ -1,6 +1,11 @@
 require 'test_helper'
 
 class UsersSignupTest < ActionDispatch::IntegrationTest
+  test 'should_post_signup' do
+    get signup_path
+    assert_select 'form[action="/signup"]'
+  end
+
   test 'invalid signup information' do
     get signup_path
     assert_no_difference 'User.count' do
