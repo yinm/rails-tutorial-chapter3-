@@ -1,6 +1,6 @@
 ref:   
-[Ruby on Rails Tutorial chapter3](https://railstutorial.jp/chapters/static_pages?version=5.0#cha-static_pages)
-[Ruby on Rails チュートリアル 完全攻略 概要と演習解答総まとめ - 新米パパの育児留学](http://mochikichi.hatenablog.com/entry/rails_tutorial_guide)
+* [Ruby on Rails Tutorial chapter3](https://railstutorial.jp/chapters/static_pages?version=5.0#cha-static_pages)
+* [Ruby on Rails チュートリアル 完全攻略 概要と演習解答総まとめ - 新米パパの育児留学](http://mochikichi.hatenablog.com/entry/rails_tutorial_guide)
 
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
